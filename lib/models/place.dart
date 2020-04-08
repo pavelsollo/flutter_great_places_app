@@ -11,7 +11,6 @@ class PlaceLocation{
     @required this.longitude,
     this.address,
   });
-
 }
 
 class Place {
